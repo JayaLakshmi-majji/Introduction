@@ -1,0 +1,8 @@
+import java.util.*;
+	public class ZerosNonZeros{
+		public static void main(String args[]){
+			Sanner sc=new Scanner(system.in);
+			int n,a[];
+			
+		}
+	}
